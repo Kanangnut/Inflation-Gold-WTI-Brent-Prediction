@@ -38,7 +38,6 @@ The project aims to provide insights into how inflation impacts the prices of ke
    - **Matplotlib:** For creating visualizations and plots.
    - **NumPy:** For numerical operations and data manipulation.
    - **Scikit-learn:** For scaling and evaluating data (though not explicitly used in the code provided).
-   - **Keras/TensorFlow:** For building and training machine learning models (though not explicitly used in the code provided).
 
 3. **Data Sources:**
    - CSV files containing inflation rates and commodity prices.
