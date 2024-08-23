@@ -1,4 +1,4 @@
-## Inflation Gold WTI Brent Prediction
+## Analyzing the Impact of Inflation on Commodity Prices: A Visual Exploration of Gold, WTI, and Brent
 
 This project involves analyzing the relationship between inflation rates and the prices of Gold, WTI (West Texas Intermediate) crude oil, and Brent crude oil over time using Python. Here's a summary:
 
@@ -27,3 +27,21 @@ This project involves analyzing the relationship between inflation rates and the
 
 ### **Goal:**
 The project aims to provide insights into how inflation impacts the prices of key commodities like Gold, WTI, and Brent crude oil. By visualizing these relationships, the analysis can highlight trends or anomalies that might be relevant for financial or economic decision-making.
+
+### **Tools and Technologies Used:**
+
+1. **Programming Language:**
+   - Python
+
+2. **Libraries:**
+   - **Pandas:** For data manipulation and analysis.
+   - **Matplotlib:** For creating visualizations and plots.
+   - **NumPy:** For numerical operations and data manipulation.
+   - **Scikit-learn:** For scaling and evaluating data (though not explicitly used in the code provided).
+   - **Keras/TensorFlow:** For building and training machine learning models (though not explicitly used in the code provided).
+
+3. **Data Sources:**
+   - CSV files containing inflation rates and commodity prices.
+
+4. **Visualization Tools:**
+   - **Matplotlib:** Used to create line plots and scatter plots to visualize the relationship between inflation rates and commodity prices.
